@@ -1,6 +1,6 @@
 Directory Structure-
 
-	akurhade_hw3-
+	
 		|--Code-
 		|  |-DETECTBUOY-FRAMES-
 		|  |	|-Data		#Data frames
